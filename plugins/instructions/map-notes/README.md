@@ -9,7 +9,7 @@ We wanted to explore how Omi can be used to interact with the physical world aro
 ## 📌 Pin Your Thoughts to the World
 
 Map Notes allows you to effortlessly create public location-based notes from your conversations. It's like leaving pins across a global map!
-Note: When using Map Notes, only memories that include your geolocation will be captured
+Note: When using Map Notes, only memories that include your geolocation will be captured. You can see a global collection of memories at our website linked above. 
 
 ## 🌟 Creating a Pin
 
